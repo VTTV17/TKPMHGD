@@ -1,0 +1,21 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#root{
+	
+}
+#playButton {          
+    -fx-background-size: 28 28;   
+}
+#mediaView{
+	
+}
+#imgSound {          
+    -fx-background-size: 14 14;   
+}
+#resetButton{          
+    -fx-background-size: 20 20;   
+}
+#mediaSlider{
+    -fx-border-color: white;
+    -fx-border-style: dashed;
+    -fx-border-width: 2;
+}
